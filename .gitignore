@@ -164,3 +164,4 @@ cython_debug/
 
 # Do not include sample files
 *.mp4
+*.wav
