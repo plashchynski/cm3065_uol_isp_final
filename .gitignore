@@ -167,3 +167,5 @@ cython_debug/
 *.wav
 *.ex2
 *.rle
+*.mov
+*.avi
